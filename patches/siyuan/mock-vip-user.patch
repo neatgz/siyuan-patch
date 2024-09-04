@@ -25,7 +25,7 @@ index 9010350078560bb298de72bc73d54e51db60f21b..dfe9ab286f50431bdb30c633b8e63886
 +
 +	user := &conf.User{
 +			UserId: "0",
-+			UserName: "_",
++			UserName: "LocalVip",
 +			UserAvatarURL: "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
 +			UserHomeBImgURL: "",
 +			UserTitles: []*conf.UserTitle{},
