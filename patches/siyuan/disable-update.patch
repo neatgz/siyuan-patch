@@ -58,6 +58,7 @@ index cc55d4543130128cf0a78ef43c6cd982fa45c151..ae12417e2dedd0854182c654ed297689
 +			// CheckUpdate(true)
  		}()
  	}
+ 
 diff --git forkSrcPrefix/kernel/conf/system.go forkDstPrefix/kernel/conf/system.go
 index 6d51b4c..309594d 100644
 --- forkSrcPrefix/kernel/conf/system.go
@@ -71,3 +72,4 @@ index 6d51b4c..309594d 100644
 +		DisableGoogleAnalytics: true,
  	}
  }
+ 
